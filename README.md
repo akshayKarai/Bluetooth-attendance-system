@@ -1,0 +1,2 @@
+# Bluetooth-attendance-system
+Developed an Android app which uses a Bluetooth adapter. This app is used for marking attendance for the students who are enrolled in specific courses. The attendance is marked through a bluetooth connection. Both, Student and Faculty can manage their coursework. Each student can register to the available courses through his application. Development tool used is Android Studio.
